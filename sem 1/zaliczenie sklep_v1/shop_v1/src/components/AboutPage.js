@@ -21,7 +21,7 @@ const About = () => (
       volutpat lectus, quis blandit diam consectetur ac. In hac habitasse platea
       dictumst. Sed rhoncus mattis condimentum. Vivamus sit amet mi volutpat
       enim tincidunt fringilla. Etiam porttitor dolor eleifend felis consectetur
-      facilisis. Ut pulvinar sollicitudin erat, nec malesuada nunc scelerisque
+      facilisis. Ut pulvinar sollicitudin erat, malesuada nunc scelerisque
       nec. Aliquam vel dolor diam. Cras efficitur dignissim justo, ac tristique
       tellus pellentesque pharetra. Quisque pharetra lectus molestie, posuere
       lectus eget, tempor justo.
